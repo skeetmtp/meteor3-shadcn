@@ -28,6 +28,10 @@ meteor run
 
 ## Change log
 
+### February 1 2025: Update dependencies
+
+- Meteor 3.1.1
+
 ### October 21 2024: Initial version
 
 - Meteor 3.0.4
